@@ -13,3 +13,9 @@ I selected the Azure subscription under which the Key Vault would be created and
 
 Then I selected the existing resource group (or created a new one) to house the Key Vault.
 <img width="1599" height="738" alt="image" src="https://github.com/user-attachments/assets/1c76e873-5e8d-418e-895b-869742bd6d58" />
+I entered a unique name for the Key Vault (e.g., mykeyvaultelp), making sure it was unique across Azure.
+<img width="1599" height="738" alt="image" src="https://github.com/user-attachments/assets/57c2c91c-f91f-4a9d-8626-eb715365e74e" />
+ I chose the appropriate geographic region for the Key Vault, selecting "East US."
+ <img width="1599" height="738" alt="image" src="https://github.com/user-attachments/assets/16cf5735-1a27-4fe2-84ce-b8c7d2f0c142" />
+ I selected the pricing tier that fit my needs, choosing between "Standard" and "Premium" (Premium supports physical HSM-backed keys).
+ 
