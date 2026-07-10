@@ -17,6 +17,6 @@ I entered a unique name for the Key Vault (e.g., mykeyvaultelp), making sure it 
 <img width="1599" height="738" alt="image" src="https://github.com/user-attachments/assets/57c2c91c-f91f-4a9d-8626-eb715365e74e" />
  I chose the appropriate geographic region for the Key Vault, selecting "East US."
 
- I selected the pricing tier that fit my needs, choosing between "Standard" and "Premium" (Premium supports physical HSM-backed keys).
+ Afterward, I selected the pricing tier that fit my needs, choosing between "Standard" and "Premium" (Premium supports physical HSM-backed keys).
  <img width="1599" height="738" alt="image" src="https://github.com/user-attachments/assets/16cf5735-1a27-4fe2-84ce-b8c7d2f0c142" />
  
