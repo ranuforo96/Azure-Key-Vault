@@ -23,5 +23,10 @@ I entered a unique name for the Key Vault (e.g., mykeyvaultelp), making sure it 
  Permission Model - I set the permission model for the Key Vault, choosing between Azure role-based access control (RBAC) or vault access policies.
  <img width="1599" height="738" alt="image" src="https://github.com/user-attachments/assets/8f4323b0-724b-42bd-a82d-4e8e5d7df625" />
 Resource Access - I configured resource access settings to allow specific Azure services to interact with the Key Vault, enabling options such as Azure Virtual Machines to retrieve certificates stored as secrets, Azure Resource Manager to retrieve secrets for template deployment, and Azure Disk Encryption to access keys for encrypting VM disks, as needed.
- 
-
+ <img width="1599" height="738" alt="image" src="https://github.com/user-attachments/assets/ee13af4a-4534-4d26-821a-02b609586762" />
+Configure the Networking Tab – I specified how the Key Vault could be accessed, choosing between public access from all networks or restricting access to selected virtual networks and IP addresses, and configured private endpoint connections if needed for added security.
+<img width="1599" height="738" alt="image" src="https://github.com/user-attachments/assets/78e65945-433e-4005-b5c2-871e4ae31599" />
+I then clicked on Review and create tab.
+<img width="1599" height="738" alt="image" src="https://github.com/user-attachments/assets/ff59b924-ccdf-4011-a693-b32c21732b13" />
+I reviewed all the configuration settings across the Basics, Access Configuration, and Networking tabs to confirm everything was correct, then clicked "Create" to provision the Key Vault.
+<img width="1599" height="738" alt="image" src="https://github.com/user-attachments/assets/3437f93e-20d9-4c4d-90fb-b4adc814a8e6" />
