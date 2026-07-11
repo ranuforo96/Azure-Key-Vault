@@ -19,4 +19,9 @@ I entered a unique name for the Key Vault (e.g., mykeyvaultelp), making sure it 
 
  Afterward, I selected the pricing tier that fit my needs, choosing between "Standard" and "Premium" (Premium supports physical HSM-backed keys).
  <img width="1599" height="738" alt="image" src="https://github.com/user-attachments/assets/16cf5735-1a27-4fe2-84ce-b8c7d2f0c142" />
+ Then, from here we configure the Access Configuration, which consists of the Permission Model and the Resource Access: 
+ Permission Model - I set the permission model for the Key Vault, choosing between Azure role-based access control (RBAC) or vault access policies.
+ <img width="1599" height="738" alt="image" src="https://github.com/user-attachments/assets/8f4323b0-724b-42bd-a82d-4e8e5d7df625" />
+Resource Access - I configured resource access settings to allow specific Azure services to interact with the Key Vault, enabling options such as Azure Virtual Machines to retrieve certificates stored as secrets, Azure Resource Manager to retrieve secrets for template deployment, and Azure Disk Encryption to access keys for encrypting VM disks, as needed.
  
+
